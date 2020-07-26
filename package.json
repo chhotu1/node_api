@@ -1,0 +1,27 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chhotu1/node_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chhotu1/node_api/issues"
+  },
+  "engines": {
+    "node": "12.18.2"
+  },
+  "homepage": "https://github.com/chhotu1/node_api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
